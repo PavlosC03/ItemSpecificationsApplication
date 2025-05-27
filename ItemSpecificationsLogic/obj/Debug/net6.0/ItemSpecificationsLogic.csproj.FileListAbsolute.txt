@@ -1,0 +1,5 @@
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0\ItemSpecificationsLogic.csproj.AssemblyReference.cache
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0\ItemSpecificationsLogic.GeneratedMSBuildEditorConfig.editorconfig
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0\ItemSpecificationsLogic.AssemblyInfoInputs.cache
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0\ItemSpecificationsLogic.AssemblyInfo.cs
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0\ItemSpecificationsLogic.csproj.CoreCompileInputs.cache

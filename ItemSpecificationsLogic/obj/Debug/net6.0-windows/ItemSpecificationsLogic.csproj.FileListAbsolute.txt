@@ -1,0 +1,59 @@
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsLogic.deps.json
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsLogic.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsLogic.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsCommon.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsData.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\Lib.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\Lib.UX.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsCommon.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsData.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\Lib.UX.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\Lib.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.csproj.AssemblyReference.cache
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.GeneratedMSBuildEditorConfig.editorconfig
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.AssemblyInfoInputs.cache
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.AssemblyInfo.cs
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.csproj.CoreCompileInputs.cache
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\refint\ItemSpecificationsLogic.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ref\ItemSpecificationsLogic.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.csproj.CopyComplete
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsLogic.deps.json
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsLogic.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsLogic.pdb
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsCommon.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsData.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsLogic\bin\Debug\net6.0-windows\Lib.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsCommon.pdb
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsData.pdb
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsLogic\bin\Debug\net6.0-windows\Lib.pdb
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.csproj.AssemblyReference.cache
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.AssemblyInfoInputs.cache
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.AssemblyInfo.cs
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.csproj.CoreCompileInputs.cache
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsLogic\obj\Debug\net6.0-windows\refint\ItemSpecificationsLogic.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.pdb
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ref\ItemSpecificationsLogic.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpec.C45DEEC3.Up2Date
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsLogic.deps.json
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsLogic.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsLogic.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsCommon.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsData.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\Lib.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsCommon.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\ItemSpecificationsData.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsLogic\bin\Debug\net6.0-windows\Lib.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.csproj.AssemblyReference.cache
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.AssemblyInfoInputs.cache
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.AssemblyInfo.cs
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.csproj.CoreCompileInputs.cache
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpec.C45DEEC3.Up2Date
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\refint\ItemSpecificationsLogic.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ItemSpecificationsLogic.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsLogic\obj\Debug\net6.0-windows\ref\ItemSpecificationsLogic.dll
