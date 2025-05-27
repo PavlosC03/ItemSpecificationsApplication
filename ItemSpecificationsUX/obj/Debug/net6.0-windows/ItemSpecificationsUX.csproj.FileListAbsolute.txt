@@ -1,0 +1,90 @@
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsUX.deps.json
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsUX.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsUX.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsCommon.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsData.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsLogic.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\Lib.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\Lib.UX.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsData.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsLogic.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\Lib.UX.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\Lib.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsCommon.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.csproj.AssemblyReference.cache
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecifications.UX.CFormTemplateMaster.resources
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecifications.UX.CFormTemplateTable.resources
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecifications.UX.WinForms.CFormMasterItem.resources
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.csproj.GenerateResource.cache
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.GeneratedMSBuildEditorConfig.editorconfig
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.AssemblyInfoInputs.cache
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.AssemblyInfo.cs
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.csproj.CoreCompileInputs.cache
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\refint\ItemSpecificationsUX.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ref\ItemSpecificationsUX.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecifications.UX.WinForms.CFormTableItemCategory.resources
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecifications.UX.WinForms.CFormTableMeasurementUnit.resources
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecifications.UX.WinForms.CFormTableSpecType.resources
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.csproj.CopyComplete
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsUX.deps.json
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsUX.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsUX.pdb
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsCommon.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsData.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsLogic.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\bin\Debug\net6.0-windows\Lib.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\bin\Debug\net6.0-windows\Lib.UX.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsData.pdb
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsLogic.pdb
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\bin\Debug\net6.0-windows\Lib.UX.pdb
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\bin\Debug\net6.0-windows\Lib.pdb
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsCommon.pdb
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.csproj.AssemblyReference.cache
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecifications.UX.CFormTemplateMaster.resources
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecifications.UX.CFormTemplateTable.resources
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecifications.UX.WinForms.CFormTableItemCategory.resources
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecifications.UX.WinForms.CFormTableMeasurementUnit.resources
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecifications.UX.WinForms.CFormTableSpecType.resources
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.csproj.GenerateResource.cache
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.AssemblyInfoInputs.cache
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.AssemblyInfo.cs
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.csproj.CoreCompileInputs.cache
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\obj\Debug\net6.0-windows\refint\ItemSpecificationsUX.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.pdb
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\obj\Debug\net6.0-windows\ref\ItemSpecificationsUX.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpec.C7603256.Up2Date
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecifications.UX.WinForms.CViewEntityItem.resources
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsUX.deps.json
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsUX.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsUX.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsCommon.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsData.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsLogic.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\Lib.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\Lib.UX.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsData.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsLogic.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\Lib.UX.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\ItemSpecificationsCommon.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\bin\Debug\net6.0-windows\Lib.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.csproj.AssemblyReference.cache
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecifications.UX.CFormTemplateMaster.resources
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecifications.UX.CFormTemplateTable.resources
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecifications.UX.WinForms.CFormTableItemCategory.resources
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecifications.UX.WinForms.CFormTableMeasurementUnit.resources
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecifications.UX.WinForms.CFormTableSpecType.resources
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecifications.UX.WinForms.CViewEntityItem.resources
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.csproj.GenerateResource.cache
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.AssemblyInfoInputs.cache
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.AssemblyInfo.cs
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.csproj.CoreCompileInputs.cache
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpec.C7603256.Up2Date
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\refint\ItemSpecificationsUX.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ItemSpecificationsUX.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsUX\obj\Debug\net6.0-windows\ref\ItemSpecificationsUX.dll

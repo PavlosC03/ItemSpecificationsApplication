@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net6.0-windows</TargetFramework>
+	  <Nullable>enable</Nullable>
+	  <UseWindowsForms>true</UseWindowsForms>
+	  <ImplicitUsings>enable</ImplicitUsings>
+	  <RootNamespace>ItemSpecifications.UX</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ItemSpecificationsData\ItemSpecificationsData.csproj" />
+    <ProjectReference Include="..\ItemSpecificationsLogic\ItemSpecificationsLogic.csproj" />
+    <ProjectReference Include="..\Lib.UX\Lib.UX.csproj" />
+  </ItemGroup>
+
+</Project>
