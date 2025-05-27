@@ -1,0 +1,33 @@
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\bin\Debug\net6.0-windows\ItemSpecificationsCommon.deps.json
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\bin\Debug\net6.0-windows\ItemSpecificationsCommon.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\bin\Debug\net6.0-windows\ItemSpecificationsCommon.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ItemSpecificationsCommon.GeneratedMSBuildEditorConfig.editorconfig
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ItemSpecificationsCommon.AssemblyInfoInputs.cache
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ItemSpecificationsCommon.AssemblyInfo.cs
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ItemSpecificationsCommon.csproj.CoreCompileInputs.cache
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ItemSpecificationsCommon.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0-windows\refint\ItemSpecificationsCommon.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ItemSpecificationsCommon.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ref\ItemSpecificationsCommon.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsCommon\bin\Debug\net6.0-windows\ItemSpecificationsCommon.deps.json
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsCommon\bin\Debug\net6.0-windows\ItemSpecificationsCommon.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsCommon\bin\Debug\net6.0-windows\ItemSpecificationsCommon.pdb
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ItemSpecificationsCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ItemSpecificationsCommon.AssemblyInfoInputs.cache
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ItemSpecificationsCommon.AssemblyInfo.cs
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ItemSpecificationsCommon.csproj.CoreCompileInputs.cache
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ItemSpecificationsCommon.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsCommon\obj\Debug\net6.0-windows\refint\ItemSpecificationsCommon.dll
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ItemSpecificationsCommon.pdb
+C:\Users\20210366\Desktop\New folder\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ref\ItemSpecificationsCommon.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsCommon\bin\Debug\net6.0-windows\ItemSpecificationsCommon.deps.json
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsCommon\bin\Debug\net6.0-windows\ItemSpecificationsCommon.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsCommon\bin\Debug\net6.0-windows\ItemSpecificationsCommon.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ItemSpecificationsCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ItemSpecificationsCommon.AssemblyInfoInputs.cache
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ItemSpecificationsCommon.AssemblyInfo.cs
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ItemSpecificationsCommon.csproj.CoreCompileInputs.cache
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ItemSpecificationsCommon.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0-windows\refint\ItemSpecificationsCommon.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ItemSpecificationsCommon.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0-windows\ref\ItemSpecificationsCommon.dll

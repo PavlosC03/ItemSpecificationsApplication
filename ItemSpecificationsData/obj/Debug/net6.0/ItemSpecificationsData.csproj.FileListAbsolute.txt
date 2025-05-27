@@ -1,0 +1,17 @@
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsData\bin\Debug\net6.0\ItemSpecificationsData.deps.json
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsData\bin\Debug\net6.0\ItemSpecificationsData.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsData\bin\Debug\net6.0\ItemSpecificationsData.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsData\bin\Debug\net6.0\ItemSpecificationsCommon.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsData\bin\Debug\net6.0\Lib.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsData\bin\Debug\net6.0\Lib.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsData\bin\Debug\net6.0\ItemSpecificationsCommon.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsData\obj\Debug\net6.0\ItemSpecificationsData.csproj.AssemblyReference.cache
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsData\obj\Debug\net6.0\ItemSpecificationsData.GeneratedMSBuildEditorConfig.editorconfig
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsData\obj\Debug\net6.0\ItemSpecificationsData.AssemblyInfoInputs.cache
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsData\obj\Debug\net6.0\ItemSpecificationsData.AssemblyInfo.cs
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsData\obj\Debug\net6.0\ItemSpecificationsData.csproj.CoreCompileInputs.cache
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsData\obj\Debug\net6.0\ItemSpec.EF1B2071.Up2Date
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsData\obj\Debug\net6.0\ItemSpecificationsData.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsData\obj\Debug\net6.0\refint\ItemSpecificationsData.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsData\obj\Debug\net6.0\ItemSpecificationsData.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsData\obj\Debug\net6.0\ref\ItemSpecificationsData.dll

@@ -1,0 +1,11 @@
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\bin\Debug\net6.0\ItemSpecificationsCommon.deps.json
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\bin\Debug\net6.0\ItemSpecificationsCommon.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\bin\Debug\net6.0\ItemSpecificationsCommon.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0\ItemSpecificationsCommon.GeneratedMSBuildEditorConfig.editorconfig
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0\ItemSpecificationsCommon.AssemblyInfoInputs.cache
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0\ItemSpecificationsCommon.AssemblyInfo.cs
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0\ItemSpecificationsCommon.csproj.CoreCompileInputs.cache
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0\ItemSpecificationsCommon.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0\refint\ItemSpecificationsCommon.dll
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0\ItemSpecificationsCommon.pdb
+Z:\CS412 [C#]\Semester Project\ItemSpecificationsCommon\obj\Debug\net6.0\ref\ItemSpecificationsCommon.dll
