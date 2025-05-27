@@ -1,0 +1,30 @@
+C:\Users\20210366\Desktop\New folder\Lib.UX\bin\Debug\net6.0-windows\Lib.UX.deps.json
+C:\Users\20210366\Desktop\New folder\Lib.UX\bin\Debug\net6.0-windows\Lib.UX.dll
+C:\Users\20210366\Desktop\New folder\Lib.UX\bin\Debug\net6.0-windows\Lib.UX.pdb
+C:\Users\20210366\Desktop\New folder\Lib.UX\bin\Debug\net6.0-windows\Lib.dll
+C:\Users\20210366\Desktop\New folder\Lib.UX\bin\Debug\net6.0-windows\Lib.pdb
+C:\Users\20210366\Desktop\New folder\Lib.UX\obj\Debug\net6.0-windows\Lib.UX.csproj.AssemblyReference.cache
+C:\Users\20210366\Desktop\New folder\Lib.UX\obj\Debug\net6.0-windows\Lib.UX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20210366\Desktop\New folder\Lib.UX\obj\Debug\net6.0-windows\Lib.UX.AssemblyInfoInputs.cache
+C:\Users\20210366\Desktop\New folder\Lib.UX\obj\Debug\net6.0-windows\Lib.UX.AssemblyInfo.cs
+C:\Users\20210366\Desktop\New folder\Lib.UX\obj\Debug\net6.0-windows\Lib.UX.csproj.CoreCompileInputs.cache
+C:\Users\20210366\Desktop\New folder\Lib.UX\obj\Debug\net6.0-windows\Lib.UX.csproj.Up2Date
+C:\Users\20210366\Desktop\New folder\Lib.UX\obj\Debug\net6.0-windows\Lib.UX.dll
+C:\Users\20210366\Desktop\New folder\Lib.UX\obj\Debug\net6.0-windows\refint\Lib.UX.dll
+C:\Users\20210366\Desktop\New folder\Lib.UX\obj\Debug\net6.0-windows\Lib.UX.pdb
+C:\Users\20210366\Desktop\New folder\Lib.UX\obj\Debug\net6.0-windows\ref\Lib.UX.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\Lib.UX\bin\Debug\net6.0-windows\Lib.UX.deps.json
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\Lib.UX\bin\Debug\net6.0-windows\Lib.UX.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\Lib.UX\bin\Debug\net6.0-windows\Lib.UX.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\Lib.UX\bin\Debug\net6.0-windows\Lib.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\Lib.UX\bin\Debug\net6.0-windows\Lib.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\Lib.UX\obj\Debug\net6.0-windows\Lib.UX.csproj.AssemblyReference.cache
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\Lib.UX\obj\Debug\net6.0-windows\Lib.UX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\Lib.UX\obj\Debug\net6.0-windows\Lib.UX.AssemblyInfoInputs.cache
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\Lib.UX\obj\Debug\net6.0-windows\Lib.UX.AssemblyInfo.cs
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\Lib.UX\obj\Debug\net6.0-windows\Lib.UX.csproj.CoreCompileInputs.cache
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\Lib.UX\obj\Debug\net6.0-windows\Lib.UX.csproj.Up2Date
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\Lib.UX\obj\Debug\net6.0-windows\Lib.UX.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\Lib.UX\obj\Debug\net6.0-windows\refint\Lib.UX.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\Lib.UX\obj\Debug\net6.0-windows\Lib.UX.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\Lib.UX\obj\Debug\net6.0-windows\ref\Lib.UX.dll
