@@ -1,0 +1,126 @@
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.exe
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.deps.json
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.runtimeconfig.json
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.pdb
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\Dapper.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsCommon.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsData.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsLogic.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsUX.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\Lib.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\Lib.UX.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsCommon.pdb
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsData.pdb
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsLogic.pdb
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsUX.pdb
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\Lib.UX.pdb
+Z:\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\Lib.pdb
+Z:\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.AssemblyReference.cache
+Z:\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.CFormMain.resources
+Z:\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.GenerateResource.cache
+Z:\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.AssemblyInfoInputs.cache
+Z:\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.AssemblyInfo.cs
+Z:\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.CoreCompileInputs.cache
+Z:\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\refint\WindowsApp.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.pdb
+Z:\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.genruntimeconfig.cache
+Z:\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\ref\WindowsApp.dll
+Z:\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.CopyComplete
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.exe
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.deps.json
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.runtimeconfig.json
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.pdb
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\Dapper.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsCommon.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsData.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsLogic.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsUX.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\Lib.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\Lib.UX.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsCommon.pdb
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsData.pdb
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsLogic.pdb
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsUX.pdb
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\Lib.UX.pdb
+C:\Users\20210366\Desktop\New folder\WindowsApp\bin\Debug\net6.0-windows\Lib.pdb
+C:\Users\20210366\Desktop\New folder\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.AssemblyReference.cache
+C:\Users\20210366\Desktop\New folder\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.CFormMain.resources
+C:\Users\20210366\Desktop\New folder\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.GenerateResource.cache
+C:\Users\20210366\Desktop\New folder\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20210366\Desktop\New folder\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.AssemblyInfoInputs.cache
+C:\Users\20210366\Desktop\New folder\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.AssemblyInfo.cs
+C:\Users\20210366\Desktop\New folder\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\20210366\Desktop\New folder\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\obj\Debug\net6.0-windows\refint\WindowsApp.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.pdb
+C:\Users\20210366\Desktop\New folder\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.genruntimeconfig.cache
+C:\Users\20210366\Desktop\New folder\WindowsApp\obj\Debug\net6.0-windows\ref\WindowsApp.dll
+C:\Users\20210366\Desktop\New folder\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.Up2Date
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.exe
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.deps.json
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.runtimeconfig.json
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\WindowsApp.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\Dapper.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsCommon.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsData.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsLogic.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsUX.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\Lib.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\Lib.UX.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsCommon.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsData.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsLogic.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\ItemSpecificationsUX.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\Lib.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\bin\Debug\net6.0-windows\Lib.UX.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.AssemblyReference.cache
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.CFormMain.resources
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.GenerateResource.cache
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.AssemblyInfoInputs.cache
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.AssemblyInfo.cs
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.csproj.Up2Date
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\refint\WindowsApp.dll
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.pdb
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\WindowsApp.genruntimeconfig.cache
+C:\Users\chumm\OneDrive\Documents\School Work\ACT\CS412 [C#]\Semester Project\WindowsApp\obj\Debug\net6.0-windows\ref\WindowsApp.dll

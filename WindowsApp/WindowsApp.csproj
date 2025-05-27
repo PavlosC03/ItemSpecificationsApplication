@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>ItemSpecifications.WindowsApp</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ItemSpecificationsCommon\ItemSpecificationsCommon.csproj" />
+    <ProjectReference Include="..\ItemSpecificationsData\ItemSpecificationsData.csproj" />
+    <ProjectReference Include="..\ItemSpecificationsLogic\ItemSpecificationsLogic.csproj" />
+    <ProjectReference Include="..\ItemSpecificationsUX\ItemSpecificationsUX.csproj" />
+  </ItemGroup>
+
+</Project>

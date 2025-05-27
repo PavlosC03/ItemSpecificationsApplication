@@ -1,0 +1,530 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\WindowsApp\\WindowsApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsCommon\\ItemSpecificationsCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsCommon\\ItemSpecificationsCommon.csproj",
+        "projectName": "ItemSpecificationsCommon",
+        "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsCommon\\ItemSpecificationsCommon.csproj",
+        "packagesPath": "C:\\Users\\chumm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsCommon\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chumm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsData\\ItemSpecificationsData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsData\\ItemSpecificationsData.csproj",
+        "projectName": "ItemSpecificationsData",
+        "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsData\\ItemSpecificationsData.csproj",
+        "packagesPath": "C:\\Users\\chumm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chumm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsCommon\\ItemSpecificationsCommon.csproj": {
+                "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsCommon\\ItemSpecificationsCommon.csproj"
+              },
+              "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\Lib\\Lib.csproj": {
+                "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\Lib\\Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsLogic\\ItemSpecificationsLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsLogic\\ItemSpecificationsLogic.csproj",
+        "projectName": "ItemSpecificationsLogic",
+        "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsLogic\\ItemSpecificationsLogic.csproj",
+        "packagesPath": "C:\\Users\\chumm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chumm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsCommon\\ItemSpecificationsCommon.csproj": {
+                "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsCommon\\ItemSpecificationsCommon.csproj"
+              },
+              "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsData\\ItemSpecificationsData.csproj": {
+                "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsData\\ItemSpecificationsData.csproj"
+              },
+              "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\Lib\\Lib.csproj": {
+                "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\Lib\\Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsUX\\ItemSpecificationsUX.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsUX\\ItemSpecificationsUX.csproj",
+        "projectName": "ItemSpecificationsUX",
+        "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsUX\\ItemSpecificationsUX.csproj",
+        "packagesPath": "C:\\Users\\chumm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsUX\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chumm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsData\\ItemSpecificationsData.csproj": {
+                "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsData\\ItemSpecificationsData.csproj"
+              },
+              "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsLogic\\ItemSpecificationsLogic.csproj": {
+                "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsLogic\\ItemSpecificationsLogic.csproj"
+              },
+              "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\Lib.UX\\Lib.UX.csproj": {
+                "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\Lib.UX\\Lib.UX.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\Lib.UX\\Lib.UX.csproj": {
+      "version": "4.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\Lib.UX\\Lib.UX.csproj",
+        "projectName": "Lib.UX",
+        "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\Lib.UX\\Lib.UX.csproj",
+        "packagesPath": "C:\\Users\\chumm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\Lib.UX\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chumm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\Lib\\Lib.csproj": {
+                "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\Lib\\Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\Lib\\Lib.csproj": {
+      "version": "4.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\Lib\\Lib.csproj",
+        "projectName": "Lib",
+        "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\Lib\\Lib.csproj",
+        "packagesPath": "C:\\Users\\chumm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chumm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.119, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\WindowsApp\\WindowsApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\WindowsApp\\WindowsApp.csproj",
+        "projectName": "WindowsApp",
+        "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\WindowsApp\\WindowsApp.csproj",
+        "packagesPath": "C:\\Users\\chumm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\WindowsApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chumm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsCommon\\ItemSpecificationsCommon.csproj": {
+                "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsCommon\\ItemSpecificationsCommon.csproj"
+              },
+              "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsData\\ItemSpecificationsData.csproj": {
+                "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsData\\ItemSpecificationsData.csproj"
+              },
+              "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsLogic\\ItemSpecificationsLogic.csproj": {
+                "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsLogic\\ItemSpecificationsLogic.csproj"
+              },
+              "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsUX\\ItemSpecificationsUX.csproj": {
+                "projectPath": "C:\\Users\\chumm\\OneDrive\\Documents\\School Work\\ACT\\CS412 [C#]\\Semester Project\\ItemSpecificationsUX\\ItemSpecificationsUX.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
