@@ -1,0 +1,4 @@
+sqllocaldb create [dbname]
+sqllocaldb start [dbname]
+
+sqllocal info
